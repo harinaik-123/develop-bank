@@ -5,5 +5,5 @@ java-demo/
         └── java/
             └── com/
                 └── example/
-                    └── app/
+                    └── hari/
                         └── Main.java

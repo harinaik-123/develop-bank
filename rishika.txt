@@ -4,6 +4,6 @@ java-demo/
     └── main/
         └── java/
             └── com/
-                └── example/
+                └── examples/
                     └── app/
                         └── Main.java

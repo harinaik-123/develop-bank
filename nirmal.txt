@@ -12,7 +12,7 @@ public class Main {
         System.out.println("      Java Demo Application");
         System.out.println("================================");
 
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your name hari: ");
         String name = scanner.nextLine();
 
         System.out.print("Enter your age: ");

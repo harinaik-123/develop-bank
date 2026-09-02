@@ -1,3 +1,3 @@
 <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.target class>17</maven.compiler.target>
     </properties>
